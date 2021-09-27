@@ -10,3 +10,8 @@
     margin-top:50px;
     border-top-left-radius:100%;
   }
+
+div:nth-child(2) {
+    width: 100px;
+    height: 100px;
+  }
