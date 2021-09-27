@@ -11,7 +11,8 @@
     border-top-left-radius:100%;
   }
 
-div:nth-child(2) {
+  div:nth-child(2) {
     width: 100px;
     height: 100px;
+    background: #F7F3D7;
   }
